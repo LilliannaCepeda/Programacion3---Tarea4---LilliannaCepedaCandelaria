@@ -16,6 +16,7 @@ public class Main{
          System.out.print(e.getMessage());
        }
         
+       scanner.close();
     }
 
 }
